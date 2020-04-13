@@ -5,9 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Project name
 Git Search.
 # Project description:
-> Create a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that       person's public repositories. A person can also look for repositories.
-
->  Use the GitHub API (Links to an external site.)Links to an external site. to retrieve this information. This API allows        5,000 requests per hour with an API key, but only 60 requests per hour _without_ one. Everyone is therefore required to use    their own unique key. GitHub refers to these keys as "Personal Access Tokens".
+> This is a project that helps one to search their names and repositories
 
 ## Development server
 
