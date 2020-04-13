@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 # Project name
-Git Search.
+>GitSearch.
 # Project description:
 > This is a project that helps one to search their names and repositories.
 
