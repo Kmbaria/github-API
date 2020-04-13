@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+body{
+    background-image: url("../src/assets/tricsy.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'IM Fell Double Pica', serif;
+}
+.container-fluid{
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 5px;
+    opacity: 0.8;
+}
