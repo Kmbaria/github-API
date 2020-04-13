@@ -50,5 +50,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Contact information.
 > Mail me: Kmbaria.george@gmail.com
 
-# License and Copyright information.
+# License.
 > MIT Copyright Jojik © 2020 
