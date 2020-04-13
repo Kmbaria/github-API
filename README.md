@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Project name
 Git Search.
 # Project description:
-> This is a project that helps one to search their names and repositories
+> This is a project that helps one to search their names and repositories.
 
 ## Development server
 
@@ -46,8 +46,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * typescript
  
  # Known Bugs.
- > Null
- 
+ > No bugs at the moment
 # Contact information.
 > Mail me: Kmbaria.george@gmail.com
 
